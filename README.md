@@ -10,12 +10,12 @@
 
 ```rb
 =begin
-  Focusing: Offsec, Web3.
+  Focusing: Security, Web3.
   Enjoys: C/C++ and Ruby.
-  Os: Void.
+  Os: Void, Gentoo.
   Langs: EN, PT, RU.
 
-  Geek culture.
+  Geek Culture.
 =end
 
 ```
